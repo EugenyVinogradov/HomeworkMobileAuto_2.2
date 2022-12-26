@@ -1,0 +1,1 @@
+[![Tests running](https://github.com/EugenyVinogradov/HomeworkMobileAuto_2.2/actions/workflows/android.yml/badge.svg)](https://github.com/EugenyVinogradov/HomeworkMobileAuto_2.2/actions/workflows/android.yml/badge.svg)
